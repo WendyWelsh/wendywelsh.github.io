@@ -1,0 +1,88 @@
+html {
+background: url(../images/glacier.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family: 'Helvetica Neue', sans-serif;
+}
+
+.navbar-brand {
+	padding: 1% 0;
+	font-size: 30px;
+	height: 50px;
+	vertical-align: top;
+	color: white;
+}
+.navbar-header {
+	background: rgba(0, 0, 0, 0.4);
+	font-size: 1.5em;
+	height: 50px;
+	vertical-align: top;
+	color: white;
+	letter-spacing: 10;
+	font-weight: 100;
+	padding: 20px;
+	margin: auto;
+	margin-top: 15px;
+}
+.fa-github {
+	color: white;
+  }
+.fa-linkedin-in {
+	color: white;
+}
+.fa-envelope {
+color: white;
+}
+.fa-file-alt {
+color: white;
+}
+  
+
+.prof-box {
+	width: 345px;
+	height: 100px;
+	border-radius: 0%;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 20px;
+	color: white;
+	margin-left: 0;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.profile-pic {
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 5;
+	font-size: 20px;
+}
+h5 {
+	font-weight: 200;
+	letter-spacing: 5;
+	font-size: 10px;
+}
+
+p {
+	font-weight: 300;
+    letter-spacing: 2;
+}
+
+.social-icons a {
+	color: white;
+	margin-left: 0;
+	font-size: 20px;
+	word-spacing: 20px;
+}
+
+.line-break {
+	width: 340px;
+	margin-left: 0;
+	border-top: 1px solid white;
+}
