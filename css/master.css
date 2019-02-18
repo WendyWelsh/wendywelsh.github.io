@@ -1,13 +1,13 @@
-html {
-background-image: url(../images/glacier.jpg) no-repeat center center fixed; 
-background-color: #9484cdde;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-font-family: 'Helvetica Neue', sans-serif;
-}
 
+html {
+	background: url(../images/glacier.jpg) no-repeat center center fixed; 
+	background-color: #2073b3de;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Helvetica Neue', sans-serif;
+}
 .navbar-brand {
 	padding: 1% 0;
 	font-size: 30px;
